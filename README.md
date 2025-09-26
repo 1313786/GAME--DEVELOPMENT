@@ -1,5 +1,9 @@
 # EX 3 : Circle Drawing Algorithm
 
+NAME : IRFAN KHAN.N
+
+REG NO: 212224230097
+
 **AIM :**
 
 To  implement the Bresenham’s  algorithm for circle using a c coding.
@@ -82,7 +86,7 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
 
 **Output :**
 
-![alt text](<Screenshot 2025-09-22 114046.png>)
+ ![alt text](<Screenshot 2025-09-22 114046.png>)
 
 
 **Result :**
